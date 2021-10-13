@@ -4,6 +4,17 @@ h1
 	display: center;
 }
 
+.assignment {
+	display:flex;
+	padding:10px;
+	background:magenta;
+}
+
+.assignment img {
+	width:200px;
+	padding:10px;
+}
+
 body 
 {
 	background: lightgreen;
